@@ -6,7 +6,7 @@
 
 ---
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,java,kotlin,scala,golang,git,react,javascript,typescript,python,bash,cs,git&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,java,kotlin,scala,golang,git,react,javascript,typescript,python,bash,git&perline=12)](https://skillicons.dev)
 
 ---
 ## 0x02 > Support my Work
