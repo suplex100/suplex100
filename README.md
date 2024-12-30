@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <img src="images/banner.png" width="700" />
+ <img src="images/banner.png" width="400"  />
 </div>
 
 [![Typewriter](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4440FF&pause=500&center=true&random=false&width=1200&lines=$+Software+Leader+/+Developer+focused+on+dynamic+platforms;)](https://git.io/typing-svg)
